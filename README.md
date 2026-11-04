@@ -32,5 +32,3 @@ The hamburger menu is visible only on mobile screens. When the user clicks the h
 3. Open `index.html` in your browser.
 4. Resize the browser to view the mobile hamburger menu.
 
-```
-```
